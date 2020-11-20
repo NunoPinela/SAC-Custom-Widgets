@@ -5,7 +5,7 @@
   "description": "Date Picker",
   "newInstancePrefix": "datePicker",
   "icon": "https://github.com/NunoPinela/SAC-Custom-Widgets/blob/master/datepickerimg.ico",
-  "vendor": "Dania Almadani",
+  "vendor": "Nuno Pinela",
   "eula": "",
   "license": "",
   "imports": [ "input-controls" ],

@@ -4,7 +4,7 @@
   "name": "datePicker",
   "description": "Date Picker",
   "newInstancePrefix": "datePicker",
-  "icon": "https://sac-custom-widgets.cfapps.sap.hana.ondemand.com//datepickerimg.ico",
+  "icon": "https://github.com/NunoPinela/SAC-Custom-Widgets/blob/master/datepickerimg.ico",
   "vendor": "Dania Almadani",
   "eula": "",
   "license": "",
@@ -13,7 +13,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sac-datepicker",
-      "url": "https://sac-custom-widgets.cfapps.sap.hana.ondemand.com//datepicker.js",
+      "url": "https://github.com/NunoPinela/SAC-Custom-Widgets/blob/master/datepicker.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
